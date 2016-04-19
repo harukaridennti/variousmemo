@@ -1,0 +1,5 @@
+# ftp-proxy.kuins.netのproxy設定メモ
+
+すでにネットにつながっているPC等から、ftp-proxy.kuins.netにつなぐときの覚書。
+すでにつながっているので、ID,Pass等は不必要。
+なので、ホストにftp-proxy.kuins.net、パスは無しでOK.
